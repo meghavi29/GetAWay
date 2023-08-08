@@ -1,5 +1,5 @@
 # App Features :
-1: Beautiful Design
+Beautiful Design
 2: Login, SignUp & Forget
 3: Current Place & Near by Places
 4: Map Styles, Traffic enable
